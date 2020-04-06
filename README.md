@@ -5,15 +5,12 @@
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### Run weixin miniproject
 ```
-npm run serve
+npm run dev:mp-weixin
 ```
 
-### Compiles and minifies for production
-```
-npm run build
-```
+
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
